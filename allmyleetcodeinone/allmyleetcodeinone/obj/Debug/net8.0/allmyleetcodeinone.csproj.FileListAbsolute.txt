@@ -1,0 +1,14 @@
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\bin\Debug\net8.0\allmyleetcodeinone.exe
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\bin\Debug\net8.0\allmyleetcodeinone.deps.json
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\bin\Debug\net8.0\allmyleetcodeinone.runtimeconfig.json
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\bin\Debug\net8.0\allmyleetcodeinone.dll
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\bin\Debug\net8.0\allmyleetcodeinone.pdb
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\allmyleetcodeinone.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\allmyleetcodeinone.AssemblyInfoInputs.cache
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\allmyleetcodeinone.AssemblyInfo.cs
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\allmyleetcodeinone.csproj.CoreCompileInputs.cache
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\allmyleetcodeinone.dll
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\refint\allmyleetcodeinone.dll
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\allmyleetcodeinone.pdb
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\allmyleetcodeinone.genruntimeconfig.cache
+C:\gitlocal\allmyleetcodeinone\allmyleetcodeinone\obj\Debug\net8.0\ref\allmyleetcodeinone.dll
